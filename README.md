@@ -38,7 +38,7 @@ Subagents never install anything. Repo contents are treated as untrusted data, a
 ## Install
 
 ```bash
-git clone https://github.com/<you>/skill-maxing
+git clone https://github.com/Yocolb/skill-maxing
 cp -r skill-maxing/skills/skill-maxing ~/.claude/skills/
 ```
 Start a new Claude Code session. Needs `git` and Python 3, and `gh` (GitHub CLI) is recommended for repo metadata.
